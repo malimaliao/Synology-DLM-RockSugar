@@ -1,0 +1,10 @@
+{
+"name": "RockSugar",
+"displayname": "冰糖搜索插件",
+"description": "冰糖葫芦，甜又甜！数据抓取自第三方网站内容",
+"version": "1.0",
+"site": "https://github.com/malimaliao/Synology-DLM-RockSugar",
+"module": "search.php",
+"type": "search",
+"class": "RockSugarSearch"
+}
